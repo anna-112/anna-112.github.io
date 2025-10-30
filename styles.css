@@ -10,12 +10,12 @@ h3 {
 
 .aboutme {
     margin-top: 10%;
-    margin-left: 5%;
     margin-bottom: 10%;
-    width:25%;
     float:left;
     background-color:slateblue;
     text-align: center;
+    flex: 33.33%;
+    padding: 5px;
 }
 
 img {
