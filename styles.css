@@ -1,9 +1,10 @@
 body {
-  background-color: lightblue;
+  background-color: gray;
 }
 
 h3 {
   color: white;
+  margin: auto;
   text-align: center;
 }
 
@@ -11,6 +12,6 @@ div {
     margin-left: 10%;
     width:25%;
     float:left;
-    background-color:blue;
+    background-color:slateblue;
     text-align: center;
 }
