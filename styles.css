@@ -23,12 +23,6 @@ p {
   color: white;
 }
 
-nav {
-  display: flex;
-  flex-direction: row;
-  background-color: rgb(97, 148, 184);
-}
-
 ul {
   justify-content: center;
   list-style-type: none;
