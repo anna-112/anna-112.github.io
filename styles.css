@@ -3,7 +3,7 @@ body {
 }
 .home {
   margin: auto;
-  justify-content: center;
+  align-content: center;
 }
 
 /* headings / pargraph */
@@ -20,7 +20,7 @@ header {
   background-color: rgb(69, 102, 126);;
 }
 
-h1, h2 {
+h1, h2, h3 {
   color: white;
   text-align: center;
 }
