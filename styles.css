@@ -51,6 +51,11 @@ ul li a:hover {
 ;
 }
 
+.aboutme {
+  border-color: lightblue;
+  border-width: 2px;
+}
+
 .container div {
   flex-grow: 1;
   background-color: rgb(97, 148, 184);
