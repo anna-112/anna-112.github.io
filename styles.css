@@ -33,7 +33,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #333333;
+  background-color: rgb(69, 102, 126);
   display: flex;
 }
 
@@ -45,7 +45,7 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: #111111;
+  background-color: rgb(46, 72, 90);
 }
 .navlink {
   color: white;
