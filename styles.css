@@ -48,9 +48,6 @@ ul li a {
 ul li a:hover {
   background-color: rgb(46, 72, 90);
 }
-.navlink {
-  color: white;
-}
 
 .container {
   display: flex;
