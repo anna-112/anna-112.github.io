@@ -1,7 +1,9 @@
 body {
   background-color:lightblue;
 }
-
+.home {
+  justify-content: center;
+}
 header {
   color: white;
   display: flex;
