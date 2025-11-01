@@ -33,6 +33,7 @@ nav {
 
 .container {
   display: flex;
+  flex-direction: row;
   background-color: darkslateblue;
 ;
 }
