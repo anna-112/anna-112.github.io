@@ -5,7 +5,7 @@ body {
 header {
   color: white;
   display: flex;
-  background-color: darkslateblue;
+  background-color: rgb(97, 148, 184);
   border: 3px;
   border-color: lightblue;
   margin: auto;
@@ -26,7 +26,7 @@ p {
 nav {
   display: flex;
   flex-direction: row;
-  background-color: darkslateblue;
+  background-color: rgb(97, 148, 184);
 }
 
 .navlink {
@@ -37,13 +37,13 @@ nav {
   display: flex;
   align-content: stretch;
   flex-direction: row;
-  background-color: darkslateblue;
+  background-color: rgb(97, 148, 184);
 ;
 }
 
 .container div {
   flex-grow: 1;
-  background-color: darkslateblue;
+  background-color: rgb(97, 148, 184);
   margin: 10px;
   padding: 20px;
 }
