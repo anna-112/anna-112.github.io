@@ -1,10 +1,6 @@
 body {
   background-color:lightblue;
 }
-.home {
-  margin: auto;
-  justify-content: center;
-}
 
 /* headings / pargraph */
 header {
@@ -16,7 +12,16 @@ header {
   margin: auto;
   justify-content: center;
 }
-
+.name {
+  margin-top: 60;
+  color: white;
+  display: flex;
+  background-color: rgb(97, 148, 184);
+  border: 3px;
+  border-color: lightblue;
+  margin: auto;
+  justify-content: center;
+}
 .projects-heading {
   background-color: rgb(69, 102, 126);;
 }
@@ -73,6 +78,11 @@ ul li a:hover {
 }
 
 .projects {
+  margin: auto;
+  justify-content: center;
+}
+
+.home {
   margin: auto;
   justify-content: center;
 }
