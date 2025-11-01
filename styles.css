@@ -3,6 +3,7 @@ body {
 }
 
 header {
+  color: white;
   display: flex;
   background-color: darkslateblue;
   border: 3px;
