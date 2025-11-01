@@ -9,7 +9,7 @@ header {
   border: 3px;
   border-color: lightblue;
   margin: auto;
-  text-align: center;
+  justify-content: center;
 }
 h1 {
   color: white;
