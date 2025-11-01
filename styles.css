@@ -2,6 +2,7 @@ body {
   background-color:lightblue;
 }
 .home {
+  max-width: 75%;
   justify-content: center;
 }
 
@@ -61,6 +62,8 @@ ul li a:hover {
 .container div {
   flex-grow: 1;
   background-color: rgb(97, 148, 184);
+  border-color: lightblue;
+  border-width: 5px;
   margin: 10px;
   padding: 20px;
 }
