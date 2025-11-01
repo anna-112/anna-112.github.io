@@ -2,7 +2,7 @@ body {
   background-color:lightblue;
 }
 .home {
-  max-width: 75%;
+  margin: auto;
   justify-content: center;
 }
 
