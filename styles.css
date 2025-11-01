@@ -75,6 +75,4 @@ ul li a:hover {
 .projects {
   margin: auto;
   justify-content: center;
-  display: flex;
-  margin-top: 5px;
 }
