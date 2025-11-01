@@ -4,6 +4,8 @@ body {
 .home {
   justify-content: center;
 }
+
+/* headings / pargraph */
 header {
   color: white;
   display: flex;
@@ -13,6 +15,7 @@ header {
   margin: auto;
   justify-content: center;
 }
+
 h1 {
   color: white;
   text-align: center;
@@ -25,6 +28,8 @@ p {
   color: white;
 }
 
+
+/* nav bar */
 ul {
   justify-content: center;
   list-style-type: none;
@@ -45,19 +50,14 @@ ul li a:hover {
   background-color: rgb(46, 72, 90);
 }
 
+
+/* skills/about me div */
 .container {
   display: flex;
   align-content: stretch;
   flex-direction: row;
   background-color: rgb(97, 148, 184);
-;
 }
-
-.aboutme {
-  border-color: lightblue;
-  border-width: 2px;
-}
-
 .container div {
   flex-grow: 1;
   background-color: rgb(97, 148, 184);
