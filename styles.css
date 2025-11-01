@@ -42,7 +42,7 @@ ul {
 }
 
 ul li a {
-  display: block;
+  display: flex; /* block */
   color: white;
   padding: 14px 16px;
   text-decoration: none;
@@ -70,5 +70,8 @@ ul li a:hover {
 }
 
 .projects {
+  margin: auto;
+  justify-content: center;
+  display: flex;
   margin-top: 5px;
 }
