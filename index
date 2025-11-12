@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anna Olson - Portfolio</title>
+    <link rel="icon" type="image/x-icon" href="/images/alogo.png">
+    <link rel="stylesheet" href="styles.css">
+ </head>
+ <body>
+<div class="wrapper">
+    <header class="name">
+      <h1>Anna Olson</h1>
+    </header>
+
+    <div class="home">
+      <ul class="navbar">
+        <li><a href="https://github.com/anna-112">Github</a></li>
+        <li><a href="https://www.linkedin.com/in/anna-olson112/">LinkedIn</a></li>
+        <li><a href="/assets/anna_olson_resume1.pdf">Resume</a></li>
+        <li><a href="mailto:ajoy0112@outlook.com">Contact</a></li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="aboutme">
+        <h2>About Me</h2>
+        <p> 
+           I’m a Computer Science & Systems major at the University of Washington Tacoma with a strong interest in software design, development, and problem solving. 
+        </p>
+        <h2>Experience</h2>
+        <p>
+            I attended Bates Technical College and graduated with an Associate's in Software development.
+            My academic work at UW and Bates has given me hands-on experience in Java, Python, and web technologies,
+            as well as solid foundations in data structures and object-oriented programming.
+         </p>
+      </div>
+
+      <div class="aboutme">
+        <h2>Skills</h2>
+        <ul>
+          <li>Java</li>
+          <li>HTML/CSS</li>
+          <li>VSCode</li>
+          <li>C#</li>
+          <li>IntelliJ</li>
+          <li>SQL</li>
+          <li>Python</li>
+          <li>Unity</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="projects">
+      <header class="projects-heading"><h2>Projects</h2></header>
+        <div class="projects-grid">
+          <div><h3>Project 1</h3><p>Short description...</p></div>
+          <div><h3>Project 2</h3><p>Short description...</p></div>
+          <div><h3>Project 3</h3><p>Short description...</p></div>
+        </div>
+    </div>
+  </div>
+ </body>
+ </html>
