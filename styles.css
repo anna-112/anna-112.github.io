@@ -1,3 +1,4 @@
+/* general */
 body {
   font-family: Cambria, Georgia, serif;
   background-color: lightblue;
@@ -67,7 +68,7 @@ ul li a:hover {
   background-color: rgb(46, 72, 90);
 }
 
-/*projects*/
+/* projects */
 .projects-heading {
   background-color: rgb(69, 102, 126);
   padding: 10px;
@@ -115,7 +116,7 @@ ul li a:hover {
   margin: auto;
   justify-content: center;
 }
-/*adjustment for mobile view*/
+/* adjustment for mobile view */
 @media (max-width: 600px) {
   .navbar {
     flex-direction: column;  
