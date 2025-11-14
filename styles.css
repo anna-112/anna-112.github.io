@@ -2,6 +2,9 @@
 body {
   font-family: Cambria, Georgia, serif;
   background-image: url("ocean_bg.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
   margin: 0;
   padding: 0;
 }
