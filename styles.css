@@ -1,7 +1,7 @@
 /* general */
 body {
   font-family: Cambria, Georgia, serif;
-  background-color: lightblue;
+  background-image: url("ocean_bg.jpg");
   margin: 0;
   padding: 0;
 }
