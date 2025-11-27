@@ -95,7 +95,7 @@ ul li a:hover {
 }
 
 
-/* skills/about me div */
+/*about me div */
 .container {
   border-radius: 8px;
   display: flex;
@@ -116,6 +116,34 @@ ul li a:hover {
   margin: auto;
   justify-content: center;
 }
+
+/*skills div */
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;    
+  gap: 5px;         
+}
+
+.skill-column {
+  flex: 1;           
+  min-width: 220px;  
+}
+
+.skill-column h3 {
+  margin-top: 0;
+  margin-bottom: 8px;  
+  text-align: left;    
+}
+
+.skill-column ul {
+  margin: 0;
+  padding-left: 20px;  
+}
+
+
+
+
 /* adjustment for mobile view */
 @media (max-width: 600px) {
   .navbar {
